@@ -34,7 +34,6 @@ Antes de começar, você precisará ter instalado em sua máquina:
 Siga os passos abaixo para rodar o projeto localmente:
 
 1. **Clone o repositório:**
-   ```bash
    git clone [https://github.com/seu-usuario/financas-em-dia.git](https://github.com/seu-usuario/financas-em-dia.git)
    cd financas-em-dia
 
