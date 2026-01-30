@@ -37,13 +37,13 @@ Siga os passos abaixo para rodar o projeto localmente:
    git clone [https://github.com/seu-usuario/financas-em-dia.git](https://github.com/seu-usuario/financas-em-dia.git)
    cd financas-em-dia
 
-2. ** Modificações no arquivo .env:**
-   DB_CONNECTION=mysql
-   DB_HOST=127.0.0.1
-   DB_PORT=3306
-   DB_DATABASE=financas-em-dia
-   DB_USERNAME=root
-   DB_PASSWORD=root
+2. ** Modificações no arquivo .env:**<br>
+   DB_CONNECTION=mysql<br>
+   DB_HOST=127.0.0.1<br>
+   DB_PORT=3306<br>
+   DB_DATABASE=financas-em-dia<br>
+   DB_USERNAME=root<br>
+   DB_PASSWORD=root<br>
 
 ## License
 
