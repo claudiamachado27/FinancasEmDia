@@ -15,8 +15,8 @@ O **Finanças em Dia** é um sistema de gestão financeira pessoal desenvolvido 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Framework:** [Laravel 10+](https://laravel.com/)
-- **Linguagem:** PHP 8.1+
+- **Framework:** [Laravel 12](https://laravel.com/)
+- **Linguagem:** PHP 8.2+
 - **Banco de Dados:** MySQL  
 - **Frontend:** Blade Templates / Bootstrap
 - **Servidor Local:** Artisan (PHP Built-in server)
@@ -24,7 +24,7 @@ O **Finanças em Dia** é um sistema de gestão financeira pessoal desenvolvido 
 ## 📋 Pré-requisitos
 
 Antes de começar, você precisará ter instalado em sua máquina:
-- [PHP](https://www.php.net/) (>= 8.1)
+- [PHP](https://www.php.net/) (>= 8.2)
 - [Composer](https://getcomposer.org/)
 - [Node.js & NPM](https://nodejs.org/) (para compilação de assets)
 - Um banco de dados (MySQL, MariaDB ou SQLite)
